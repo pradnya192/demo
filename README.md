@@ -1,3 +1,3 @@
 # demo
 this is practice
-author pradnya 
+author pradnya(magennavar) 
